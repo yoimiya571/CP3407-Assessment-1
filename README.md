@@ -36,26 +36,6 @@ The objectives of this project are to:
 
 ---
 
-## Features
-
-### Current Features
-- User authentication system
-- Homepage dashboard
-- Reading goals
-- Bookmarks and highlights
-- Reading clubs
-- User profile system
-- Theme switching (light/dark)
-
-### Planned Features
-- Book reviews and ratings
-- Notifications system
-- Search and filtering
-- Recommendation system
-- Admin moderation tools
-
----
-
 ## Initial Backlog Ideas
 
 | User Story | Priority |
