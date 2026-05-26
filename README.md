@@ -71,28 +71,6 @@ The objectives of this project are to:
 
 ---
 
-## Technology Stack
-
-### Backend
-- Django
-- Python
-
-### Frontend
-- HTML
-- CSS
-- JavaScript
-
-### Database
-- SQLite (Development)
-- MySQL (Planned Production Database)
-
-### Tools
-- GitHub
-- Git
-- Visual Studio Code / PyCharm
-
----
-
 ## Agile Development
 
 This project follows an agile and iterative development approach:
@@ -100,17 +78,3 @@ This project follows an agile and iterative development approach:
 - GitHub is used for version control
 - Tasks are managed through backlog planning
 - User feedback is collected and incorporated into future iterations
-
----
-
-## Repository Structure
-
-```text
-/project-root
-│
-├── app/
-├── templates/
-├── static/
-├── database/
-├── README.md
-└── requirements.txt
