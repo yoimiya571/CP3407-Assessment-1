@@ -38,16 +38,18 @@ The objectives of this project are to:
 
 ## Initial Backlog Ideas
 
-| User Story | Priority |
-|------------|----------|
-| As a user, I want to create an account so that I can save my reading progress | 50 |
-| As a user, I want to log in securely so that my data is protected | 50 |
-| As a user, I want to create reading goals so that I can track my progress | 40 |
-| As a user, I want to bookmark passages so that I can revisit important content | 40 |
-| As a user, I want to join reading clubs so that I can discuss books with others | 50 |
-| As a user, I want to comment in book clubs so that I can share my reading experience | 50 |
-| As a user, I want to edit my profile so that other users can know more about me | 20 |
-| As a user, I want to switch themes so that I can customize my experience | 10 |
+| User Story | Priority | Estimated Effort |
+|------------|----------|------------------|
+| As a user, I want to create an account so that I can save my reading progress | 10 | 2 days |
+| As a user, I want to log in securely so that my data is protected | 10 | 2 days |
+| As a user, I want to join reading clubs so that I can discuss books with others | 10 | 4 days |
+| As a user, I want to comment in book clubs so that I can share my reading experience | 10 | 3 days |
+| As a user, I want to create reading goals so that I can track my progress | 20 | 3 days |
+| As a user, I want to bookmark passages so that I can revisit important content | 20 | 2 days |
+| As a user, I want to edit my profile so that other users can know more about me | 30 | 2 days |
+| As a user, I want to receive notifications so that I know when someone replies to me | 30 | 3 days |
+| As a user, I want to search for books and clubs so that I can quickly find content | 20 | 4 days |
+| As a user, I want to switch themes so that I can customize my reading experience | 40 | 1 day |
 
 ---
 
